@@ -11,7 +11,7 @@ export const zhNavbar = navbar([
       {
         text: "Linux",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "linux/",
         children: [
           { text: "orangepi", icon: "pen-to-square", link: "1" },
           { text: "esp32", icon: "pen-to-square", link: "2" },  //link 对于 apple 2.md
@@ -22,26 +22,11 @@ export const zhNavbar = navbar([
       {
         text: "香蕉",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "mcu/",
         children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
+       { text: "esp32", icon: "pen-to-square", link: "2" },  //link 对于 apple 2.md
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
     ],
   },
   {
