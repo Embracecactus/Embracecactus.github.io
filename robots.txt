@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://embracecactus.github.io/zh/sitemap.xml
+Sitemap: https://embracecactus.github.io/sitemap.xml
