@@ -14,9 +14,6 @@ export const zhNavbar = navbar([
         prefix: "linux/",
         children: [
           { text: "orangepi", icon: "pen-to-square", link: "1" },
-          { text: "esp32", icon: "pen-to-square", link: "2" },  //link 对于 apple 2.md
-          "3",
-          "4",
         ],
       },
       {
