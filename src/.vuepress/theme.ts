@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/zzx.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Embracecactus/Embracecactus.github.io",
 
   docsDir: "src",
 
