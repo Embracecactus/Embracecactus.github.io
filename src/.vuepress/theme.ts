@@ -5,7 +5,9 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://embracecactus.github.io/",
+  repo: "Embracecactus/Embracecactus.github.io",
 
+  docsDir: "src",
   author: {
     name: "lijian",
     // url: "https://mister-hope.com",
@@ -13,9 +15,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/zzx.png",
 
-  repo: "Embracecactus/Embracecactus.github.io",
 
-  docsDir: "src",
 
   blog: {
     medias: {
