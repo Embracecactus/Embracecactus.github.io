@@ -5,4 +5,4 @@ cover: /assets/images/cover3.jpg
 
 # 介绍页
 
-将你的个人介绍和档案放置在此处。
+勇闯嵌入式的猪猪侠的博客
