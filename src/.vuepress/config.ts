@@ -6,11 +6,11 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
-    // "/": {
-    //   lang: "zh-CN",
-    //   title: "李健的博客",
-    //   description: "",
-    // },
+    "/": {
+      lang: "en-US",
+      title: "Blog Demo",
+      description: "A blog demo for vuepress-theme-hope",
+    },
     "/zh/": {
       lang: "zh-CN",
       title: "勇闯嵌入式的猪猪侠的博客",
