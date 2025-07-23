@@ -9,8 +9,8 @@ export default hopeTheme({
 
   docsDir: "src",
   author: {
-    name: "lijian",
-    // url: "https://mister-hope.com",
+    name: "GGbond",
+    url: "https://embracecactus.github.io",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/zzx.png",
