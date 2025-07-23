@@ -3,6 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/zh/", // 一个导航栏项具体包含内容为/zh/README.md
   "/zh/demo/",// 一个导航栏项具体包含内容为/zh/README.md
+  "/zh/AxonCore/",// 一个导航栏项具体包含内容为/zh/README.md
   {
     text: "博文", // 一个导航栏项具体包含内容 博文
     icon: "pen-to-square",
