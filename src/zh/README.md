@@ -4,9 +4,9 @@ home: true
 # Blog - 博客布局（当前使用）
 
 layout: Blog  
-icon: book
+# icon: book
 title: 博客主页
-heroImage: /zzx.png
+# heroImage: /zzx.png
 heroText: 李健的博客
 heroFullScreen: true
 tagline: 勇闯嵌入式的猪猪侠
