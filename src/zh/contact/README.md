@@ -18,7 +18,7 @@
 
 #### 📷 个人名片
 
-![GGbond 个人名片](pzx.png)
+![GGbond 个人名片](/zzx.png)
 
 
 ---
