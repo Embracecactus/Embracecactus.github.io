@@ -8,7 +8,7 @@ layout: Blog
 title: 博客主页
 # heroImage: /zzx.png
 heroText: 李健的博客
-heroFullScreen: true
+# heroFullScreen: true
 tagline: 勇闯嵌入式的猪猪侠
 projects:
   # - icon: folder-open
