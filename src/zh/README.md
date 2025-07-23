@@ -2,10 +2,8 @@
 home: true
 # layout：
 # Blog - 博客布局（当前使用）
-# Home - 普通主页布局
-# Layout - 默认布局
-# NotFound - 404 页面布局
-layout: Home  
+
+layout: Blog  
 icon: book
 title: 博客主页
 heroImage: /zzx.png
