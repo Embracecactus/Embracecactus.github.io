@@ -93,10 +93,10 @@ export default hopeTheme({
 
       displayFooter: true,
 
-      blog: {
-        description: "一个想成为全栈的开发者",
-        intro: "/zh/intro.html",
-      },
+      // blog: {
+      //   description: "一个想成为全栈的开发者",
+      //   intro: "/zh/intro.html",
+      // },
 
       // page meta
       metaLocales: {
