@@ -1,6 +1,6 @@
 ---
 home: true
-layout: Blog
+# layout: Blog
 icon: building
 title: 公司主页
 heroImage: /zzx.png
