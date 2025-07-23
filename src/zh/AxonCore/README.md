@@ -64,7 +64,7 @@ Y控制器是专为特定应用场景设计的控制器，具有高可靠性和�
 
 ### 2.3 写字机
 
-![写字机](/images/laser-engravers/writing-machine.jpg)
+![写字机](writing-machine.jpg)
 
 写字机专为在纸张上精确书写和绘图而设计。
 
