@@ -7,11 +7,11 @@ export default hopeTheme({
   hostname: "https://embracecactus.github.io/",
   repo: "Embracecactus/Embracecactus.github.io",
 
-  // docsDir: "src",
-  // author: {
-  //   name: "GGbond",
-  //   url: "https://embracecactus.github.io",
-  // },
+  docsDir: "src",
+  author: {
+    name: "GGbond",
+    url: "https://embracecactus.github.io",
+  },
 
   logo: "/zzx.png",
 
