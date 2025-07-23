@@ -1,8 +1,7 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+# cover: /assets/images/cover3.jpg
 ---
 
-# 介绍页
+# GGbond科技有限公司
 
-勇闯嵌入式的猪猪侠的博客

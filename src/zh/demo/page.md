@@ -1,4 +1,4 @@
----
+<!-- ---
 # 这是文章的标题
 title: 页面配置
 # 你可以自定义封面图片
@@ -122,4 +122,4 @@ const MyComponent = defineComponent({
   logo: https://mister-hope.com/logo.svg
   link: https://mister-hope.com
   background: rgba(253, 230, 138, 0.15)
-  ```
+  ``` -->
