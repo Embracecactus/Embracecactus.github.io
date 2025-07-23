@@ -57,53 +57,53 @@ export default hopeTheme({
   //   },
   // },
 
-  // locales: {
-  //   "/": {
-  //     // navbar
-  //     navbar: enNavbar,
+  locales: {
+    "/": {
+      // navbar
+      navbar: enNavbar,
 
-  //     // sidebar
-  //     sidebar: enSidebar,
+      // sidebar
+      sidebar: enSidebar,
 
-  //     footer: "Default footer",
+      footer: "Default footer",
 
-  //     displayFooter: true,
+      displayFooter: true,
 
-  //     blog: {
-  //       description: "A FrontEnd programmer",
-  //       intro: "/intro.html",
-  //     },
+      blog: {
+        description: "A FrontEnd programmer",
+        intro: "/intro.html",
+      },
 
-  //     metaLocales: {
-  //       editLink: "Edit this page on GitHub",
-  //     },
-  //   },
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
+      },
+    },
 
     /**
      * Chinese locale config
      */
-  //   "/zh/": {
-  //     // navbar
-  //     navbar: zhNavbar,
+    "/zh/": {
+      // navbar
+      navbar: zhNavbar,
 
-  //     // sidebar
-  //     sidebar: zhSidebar,
+      // sidebar
+      sidebar: zhSidebar,
 
-  //     footer: "默认页脚",
+      footer: "默认页脚",
 
-  //     displayFooter: true,
+      displayFooter: true,
 
-  //     blog: {
-  //       description: "一个想成为全栈的开发者",
-  //       intro: "/zh/intro.html",
-  //     },
+      blog: {
+        description: "一个想成为全栈的开发者",
+        intro: "/zh/intro.html",
+      },
 
-  //     // page meta
-  //     metaLocales: {
-  //       editLink: "在 GitHub 上编辑此页",
-  //     },
-  //   },
-  // },
+      // page meta
+      metaLocales: {
+        editLink: "在 GitHub 上编辑此页",
+      },
+    },
+  },
 
   // encrypt: {
   //   config: {
