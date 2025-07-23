@@ -13,8 +13,8 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "勇闯嵌入式的猪猪侠的博客",
-      description: "勇闯嵌入式的猪猪侠的博客",
+      title: "GGBond科技有限公司",
+      description: "GGBond科技有限公司",
     },
   },
 
