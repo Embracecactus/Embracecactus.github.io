@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-# layout: Blog
+layout: 
 icon: building
 title: 公司主页
 heroImage: /zzx.png
