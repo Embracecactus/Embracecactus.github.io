@@ -2,13 +2,11 @@
 title: 核心产品
 index: false
 icon: laptop-code
-category:
-  - 使用指南
 ---
 
 # 核心产品介绍
 
-<Catalog />
+
 
 ## 1. 控制器系列
 
