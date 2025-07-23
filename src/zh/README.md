@@ -1,5 +1,6 @@
 ---
 home: true
+portfolio: true
 # layout: Blog
 icon: building
 title: 公司主页
