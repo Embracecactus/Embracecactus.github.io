@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Markdown 展示
 icon: fa6-brands:markdown
 order: 2
@@ -290,4 +290,4 @@ npm i -D vuepress-theme-hope
 
 <iframe src="https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html" width="100%" height="420"/>
 
-- [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html)
+- [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html) -->
