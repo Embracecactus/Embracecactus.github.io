@@ -1,4 +1,3 @@
+Sitemap: https://plume.yunwutong.com/sitemap.xml
 User-agent:*
 Disallow:
-
-Sitemap: https://embracecactus.github.io/sitemap.xml
