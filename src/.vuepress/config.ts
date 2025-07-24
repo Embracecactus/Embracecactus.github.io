@@ -6,15 +6,11 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
+scription: "Embedded Systems",
     "/": {
-      lang: "en-US",
-      title: "Blog of ZhuZhuXia Who Adventures in Embedded Systems",
-      description: "Blog of ZhuZhuXia Who Adventures in Embedded Systems",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "GGBond科技有限公司",
-      description: "GGBond科技有限公司",
+      title: "云物通科技有限公司",
+      description: "云物通科技有限公司",
     },
   },
 

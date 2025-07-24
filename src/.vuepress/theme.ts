@@ -1,7 +1,10 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+// import { enNavbar, zhNavbar } from "./navbar/index.js";
+// import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import { zhNavbar } from "./navbar/index.js";
+import { zhSidebar } from "./sidebar/index.js";
+
 
 export default hopeTheme({
   hostname: "https://embracecactus.github.io/",
@@ -13,7 +16,7 @@ export default hopeTheme({
     url: "https://embracecactus.github.io",
   },
 
-  logo: "/zzx.png",
+  logo: "/lx2.png",
 
 
 
@@ -58,31 +61,31 @@ export default hopeTheme({
   // },
 
   locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
+    // "/": {
+    //   // navbar
+    //   navbar: enNavbar,
 
-      // sidebar
-      sidebar: enSidebar,
+    //   // sidebar
+    //   sidebar: enSidebar,
 
-      footer: "Default footer",
+    //   footer: "Default footer",
 
-      displayFooter: true,
+    //   displayFooter: true,
 
-      blog: {
-        description: "A FrontEnd programmer",
-        intro: "/intro.html",
-      },
+    //   blog: {
+    //     description: "A FrontEnd programmer",
+    //     intro: "/intro.html",
+    //   },
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
+    //   metaLocales: {
+    //     editLink: "Edit this page on GitHub",
+    //   },
+    // },
 
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
