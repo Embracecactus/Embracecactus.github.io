@@ -9,7 +9,7 @@ export const zhNavbar = defineNavbarConfig([
     text: '开源软件', 
     icon: 'mdi:open-source',  // 补充图标名称
     items: [
-      { text: 'linuxcnc', link: '/soft/linuxcnc/' },
+        { text: 'linuxcnc', link: '/soft/linuxcnc/' },
     ]
   },
   {
@@ -17,7 +17,7 @@ export const zhNavbar = defineNavbarConfig([
     icon: 'mdi:book-open-page-variant',
     items: [
       { text: '用户手册', link: '/doc/user/' },
-      { text: '开发手册', link: '/doc/develop/' },
+      { text: '开发手册', link: '/doc/develop/system.md' },
     ]
   },
    
