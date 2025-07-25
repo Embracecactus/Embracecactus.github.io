@@ -2,7 +2,7 @@
 
 如果你有任何项目需求、技术问题或合作意向，欢迎通过以下方式联系我们：
 
-- **电话**：+86 178-5850-5417
+<!-- - **电话**：+86 178-5850-xxxx -->
 - **邮箱**：1548976092@qq.com
 - **地址**：浙江杭州宝龙城
 - **GitHub**：[https://github.com/Embracecactus](https://github.com/Embracecactus)
