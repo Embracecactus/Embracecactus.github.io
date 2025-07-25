@@ -7,7 +7,7 @@ export const zhNavbar = defineNavbarConfig([
     { text: '控制器 X'   , link:'/hardware/xAxonCore/'},
     { text: '控制器 Y'   , link:'/hardware/yAxonCore/'},
  ]},
-  { text: '设备集成',icon:'mdi:hard-hat', items: [
+  { text: '设备集成',icon:'mdi:tools', items: [
     { text: '写字机'        , link:'/device/writer/'},
     { text: '激光雕刻机'    , link:'/device/laser/'},
     { text: 'Cnc雕刻机'     , link:'/device/cnc/'},
