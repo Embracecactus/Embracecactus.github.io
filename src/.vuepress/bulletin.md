@@ -1,7 +1,7 @@
 ::: center
 **赶快加微信关注最新进展及行业交流**  
 
-<img  src="wx.jpg">  
+<img  src="/wx.jpg">  
 
 :::
 
