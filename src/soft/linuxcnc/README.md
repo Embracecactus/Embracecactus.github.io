@@ -5,7 +5,7 @@ index: false
 icon: laptop-code
 ---
 
-## 联犀控制器已集成linuxcnc，客户免去繁琐安装步骤，直接使用即可。
+## 联犀控制器已集成linuxcnc
 
  - 场景应用：二轴激光雕刻机、 三轴写字机、 五轴CNC、3D 打印机
  - 设备类型：四轴Scara 机械臂、六轴机械臂

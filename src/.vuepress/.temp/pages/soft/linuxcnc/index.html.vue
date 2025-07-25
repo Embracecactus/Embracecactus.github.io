@@ -1,4 +1,4 @@
-<template><div><h2 id="联犀控制器已集成linuxcnc-客户免去繁琐安装步骤-直接使用即可。" tabindex="-1"><a class="header-anchor" href="#联犀控制器已集成linuxcnc-客户免去繁琐安装步骤-直接使用即可。"><span>联犀控制器已集成linuxcnc，客户免去繁琐安装步骤，直接使用即可。</span></a></h2>
+<template><div><h2 id="联犀控制器已集成linuxcnc" tabindex="-1"><a class="header-anchor" href="#联犀控制器已集成linuxcnc"><span>联犀控制器已集成linuxcnc</span></a></h2>
 <ul>
 <li>场景应用：二轴激光雕刻机、 三轴写字机、 五轴CNC、3D 打印机</li>
 <li>设备类型：四轴Scara 机械臂、六轴机械臂</li>
@@ -30,8 +30,8 @@
 <p>确保你的计算机运行的是支持实时内核的 Linux 发行版。推荐使用 Ubuntu 或 Debian。</p>
 <h3 id="_2-安装实时内核" tabindex="-1"><a class="header-anchor" href="#_2-安装实时内核"><span>2. 安装实时内核</span></a></h3>
 <p>使用 RTAI 或 RTPreempt 内核。以下是安装 RTPreempt 内核的示例命令：</p>
-<div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#393a34;--shiki-dark:#dbd7caee;--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212"><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code class="language-sh"><span class="line"><span style="--shiki-light:#393A34;--shiki-dark:#80A665">sudo</span><span style="--shiki-light:#393A34;--shiki-dark:#C98A7D"> apt-get</span><span style="--shiki-light:#393A34;--shiki-dark:#C98A7D"> update</span></span>
-<span class="line"><span style="--shiki-light:#B56959;--shiki-dark:#80A665">sudo</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> apt-get</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> install</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> linux-generic-rt</span></span></code></pre>
+<div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#393a34;--shiki-dark:#dbd7caee;--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212"><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code class="language-sh"><span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">sudo</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> apt-get</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> update</span></span>
+<span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">sudo</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> apt-get</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> install</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> linux-generic-rt</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="_3-安装-linuxcnc" tabindex="-1"><a class="header-anchor" href="#_3-安装-linuxcnc"><span>3. 安装 LinuxCNC</span></a></h3>
 <p>在终端中运行以下命令来安装 LinuxCNC：</p>
 <div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#393a34;--shiki-dark:#dbd7caee;--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212"><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code class="language-sh"><span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">sudo</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> apt-get</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D"> update</span></span>
