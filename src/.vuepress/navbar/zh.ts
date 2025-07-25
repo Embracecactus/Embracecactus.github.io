@@ -2,14 +2,24 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
 export const zhNavbar = defineNavbarConfig([
  { text: '首页', link: '/',icon:'ic:round-home' },
- { text: '硬件设备',icon:'mdi:hard-hat', items: [
-    { text: '联犀控制器', link:'/hardware/AxonCore/'},
+ { text: '控制器',icon:'mdi:hard-hat', items: [
+    { text: '控制器系列' , link:'/hardware/AxonCore/'},
+    { text: '控制器 X'   , link:'/hardware/xAxonCore/'},
+    { text: '控制器 Y'   , link:'/hardware/yAxonCore/'},
+ ]},
+  { text: '设备集成',icon:'mdi:hard-hat', items: [
+    { text: '写字机'        , link:'/device/writer/'},
+    { text: '激光雕刻机'    , link:'/device/laser/'},
+    { text: 'Cnc雕刻机'     , link:'/device/cnc/'},
+    { text: 'Scara机械臂'   , link:'/device/scara/'},
+    { text: '传送带'        , link:'/device/BeltConveyor/'},
  ]},
   { 
     text: '开源软件', 
     icon: 'mdi:open-source',  // 补充图标名称
     items: [
-        { text: 'linuxcnc', link: '/soft/linuxcnc/' },
+        { text: '联犀物联网接入', link: '/soft/ithings/' },
+        { text: 'linuxcnc'     , link: '/soft/linuxcnc/' },
     ]
   },
   {
