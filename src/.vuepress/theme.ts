@@ -209,11 +209,19 @@ export default plumeTheme({
 
 
 
-      /* 站点页脚 */
-  footer: {
-    message: 'Powered by <a target=\"_blank\" href=\"https://gitee.com/unitedrhino/things/blob/master/LICENSE\">昆明云物通科技有限公司</a> | <a href=\"http://beian.miit.gov.cn/\" target=\"_blank\">滇ICP备2024043132号-1\n</a> | <img src=\"/img/beian.png\" style=\"width: 15px; margin-bottom: -3px;\" />',
-    copyright: '',
-  },
+footer: {
+  message: `
+    Powered by 
+    <a target="_blank" href="https://gitee.com/unitedrhino/things/blob/master/LICENSE">
+      云物通科技有限公司
+    </a> | 
+    <a href="http://beian.miit.gov.cn/" target="_blank">
+      滇ICP备2024043132号-1
+    </a> | 
+    <img src="/img/beian.png" 
+         style="width: 15px; vertical-align: middle; display: inline-block;" />
+  `,
+},
 
   })
 
