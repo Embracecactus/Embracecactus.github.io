@@ -1,5 +1,5 @@
 ---
-title: Cnc
+title: SCARA 机械臂
 index: false
 icon: laptop-code
 ---
@@ -29,3 +29,4 @@ SCARA 机械臂，适用于个人创作、小型工作室及教育实验等场�
 - 七巧板搬运
 - 教学演示与实验
 - 小批量定制生产
+
