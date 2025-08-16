@@ -1,4 +1,5 @@
-<template><div><h3 id="雕刻机" tabindex="-1"><a class="header-anchor" href="#雕刻机"><span>雕刻机</span></a></h3>
+<template><div><h1 id="cnc-设备介绍" tabindex="-1"><a class="header-anchor" href="#cnc-设备介绍"><span>Cnc 设备介绍</span></a></h1>
+<h3 id="雕刻机" tabindex="-1"><a class="header-anchor" href="#雕刻机"><span>雕刻机</span></a></h3>
 <p><img src="@source/device/cnc/1.jpg" alt="雕刻效果图">
 <img src="@source/device/cnc/2.jpg" alt="雕刻效果图">
 <img src="@source/device/cnc/3.jpg" alt="雕刻效果图">

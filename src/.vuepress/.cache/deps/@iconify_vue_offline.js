@@ -2,7 +2,7 @@ import {
   defineComponent,
   h,
   renderSlot
-} from "./chunk-HVR2FF6M.js";
+} from "./chunk-XQNPNIQJ.js";
 import "./chunk-PZ5AY32C.js";
 
 // node_modules/@iconify/vue/dist/offline.mjs

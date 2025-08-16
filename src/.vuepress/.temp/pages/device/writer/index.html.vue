@@ -1,3 +1,148 @@
-<template><div></div></template>
+<template><div><h1 id="智能写字机" tabindex="-1"><a class="header-anchor" href="#智能写字机"><span>智能写字机</span></a></h1>
+<h2 id="一、产品概述" tabindex="-1"><a class="header-anchor" href="#一、产品概述"><span>一、产品概述</span></a></h2>
+<p>智能写字机是一款高精度、自动化的书写设备，能够模拟人类手写效果，实现批量文档书写、个性化贺卡制作、书法作品复制等多种功能。它采用先进的运动控制技术，配合高精度机械结构，能够在各种纸张上实现流畅自然的书写效果。</p>
+<p><img src="@source/device/writer/writer.jpg" alt="智能写字机"></p>
+<h2 id="二、产品特点" tabindex="-1"><a class="header-anchor" href="#二、产品特点"><span>二、产品特点</span></a></h2>
+<h3 id="_2-1-高精度书写" tabindex="-1"><a class="header-anchor" href="#_2-1-高精度书写"><span>2.1 高精度书写</span></a></h3>
+<ul>
+<li>采用高精度步进电机驱动，定位精度可达0.1mm</li>
+<li>支持多种笔型（钢笔、圆珠笔、马克笔等）</li>
+<li>可调笔压，适应不同纸张和书写需求</li>
+<li>支持多种字体和字号，模拟真实手写效果</li>
+</ul>
+<h3 id="_2-2-智能控制" tabindex="-1"><a class="header-anchor" href="#_2-2-智能控制"><span>2.2 智能控制</span></a></h3>
+<ul>
+<li>内置高性能控制器，支持离线书写</li>
+<li>支持Wi-Fi/蓝牙连接，可通过手机/电脑远程控制</li>
+<li>支持多种文件格式导入（TXT、Word、PDF等）</li>
+<li>智能识别手写体，支持书法作品复制</li>
+</ul>
+<h3 id="_2-3-灵活高效" tabindex="-1"><a class="header-anchor" href="#_2-3-灵活高效"><span>2.3 灵活高效</span></a></h3>
+<ul>
+<li>支持A4及以下尺寸纸张</li>
+<li>自动进纸功能，支持连续书写</li>
+<li>支持多色笔切换，实现彩色书写</li>
+<li>书写速度可调，最高可达100字符/分钟</li>
+</ul>
+<h3 id="_2-4-易用性强" tabindex="-1"><a class="header-anchor" href="#_2-4-易用性强"><span>2.4 易用性强</span></a></h3>
+<ul>
+<li>配备直观的触摸屏操作界面</li>
+<li>支持图形化路径规划，所见即所得</li>
+<li>提供丰富的模板库，满足不同场景需求</li>
+<li>支持固件在线升级，持续优化功能</li>
+</ul>
+<h2 id="三、技术参数" tabindex="-1"><a class="header-anchor" href="#三、技术参数"><span>三、技术参数</span></a></h2>
+<table>
+<thead>
+<tr>
+<th>参数项</th>
+<th>规格</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>有效书写面积</td>
+<td>210mm × 297mm (A4)</td>
+</tr>
+<tr>
+<td>定位精度</td>
+<td>±0.1mm</td>
+</tr>
+<tr>
+<td>重复定位精度</td>
+<td>±0.05mm</td>
+</tr>
+<tr>
+<td>最大书写速度</td>
+<td>100字符/分钟</td>
+</tr>
+<tr>
+<td>笔压调节范围</td>
+<td>50g - 500g</td>
+</tr>
+<tr>
+<td>支持笔型</td>
+<td>钢笔、圆珠笔、马克笔（直径6-10mm）</td>
+</tr>
+<tr>
+<td>连接方式</td>
+<td>Wi-Fi、蓝牙、USB</td>
+</tr>
+<tr>
+<td>供电电压</td>
+<td>DC 12V/2A</td>
+</tr>
+<tr>
+<td>功耗</td>
+<td>待机≤5W，工作≤15W</td>
+</tr>
+<tr>
+<td>工作温度</td>
+<td>0～40℃</td>
+</tr>
+<tr>
+<td>工作湿度</td>
+<td>20%～80%无凝露</td>
+</tr>
+<tr>
+<td>尺寸</td>
+<td>350mm × 300mm × 150mm</td>
+</tr>
+<tr>
+<td>重量</td>
+<td>约3.5kg</td>
+</tr>
+</tbody>
+</table>
+<h2 id="四、应用场景" tabindex="-1"><a class="header-anchor" href="#四、应用场景"><span>四、应用场景</span></a></h2>
+<ul>
+<li><strong>办公自动化</strong>：批量书写信封、邀请函、感谢信等</li>
+<li><strong>个性化礼品</strong>：定制贺卡、情书、生日祝福等</li>
+<li><strong>教育领域</strong>：自动书写练习册、试卷批改、教案书写等</li>
+<li><strong>文化传承</strong>：书法作品复制、古籍修复、碑刻拓本复制等</li>
+<li><strong>商业宣传</strong>：定制笔记本、宣传册、名片等</li>
+<li><strong>家庭使用</strong>：家庭留言、儿童教育、菜谱书写等</li>
+</ul>
+<h2 id="五、使用说明" tabindex="-1"><a class="header-anchor" href="#五、使用说明"><span>五、使用说明</span></a></h2>
+<h3 id="_5-1-快速入门" tabindex="-1"><a class="header-anchor" href="#_5-1-快速入门"><span>5.1 快速入门</span></a></h3>
+<ol>
+<li>开箱检查：确保设备、电源适配器、笔架、测试笔等配件齐全</li>
+<li>连接电源：使用提供的电源适配器连接设备</li>
+<li>安装笔具：根据需要选择合适的笔具，安装到笔架上</li>
+<li>开机设置：打开设备电源，通过触摸屏进行基本设置</li>
+<li>导入内容：通过Wi-Fi/蓝牙或USB导入需要书写的内容</li>
+<li>放置纸张：将纸张平整放置在书写平台上</li>
+<li>开始书写：点击开始按钮，设备将自动完成书写</li>
+</ol>
+<h3 id="_5-2-注意事项" tabindex="-1"><a class="header-anchor" href="#_5-2-注意事项"><span>5.2 注意事项</span></a></h3>
+<ul>
+<li>使用前请确保设备放置平稳，避免震动</li>
+<li>定期清理导轨和丝杆，保持设备清洁</li>
+<li>使用合适的笔具，避免使用过于尖锐或粗重的笔</li>
+<li>避免在潮湿、多尘或极端温度环境下使用</li>
+<li>长期不使用时，请关闭电源并妥善保管</li>
+</ul>
+<h2 id="六、技术支持" tabindex="-1"><a class="header-anchor" href="#六、技术支持"><span>六、技术支持</span></a></h2>
+<h3 id="_6-1-文档支持" tabindex="-1"><a class="header-anchor" href="#_6-1-文档支持"><span>6.1 文档支持</span></a></h3>
+<ul>
+<li>提供详细的用户手册和快速入门指南</li>
+<li>提供常见问题解答和故障排查手册</li>
+<li>提供视频教程和操作演示</li>
+</ul>
+<h3 id="_6-2-在线支持" tabindex="-1"><a class="header-anchor" href="#_6-2-在线支持"><span>6.2 在线支持</span></a></h3>
+<ul>
+<li>技术支持邮箱：support@example.com</li>
+<li>技术支持电话：400-123-4567</li>
+<li>工作日：9:00-18:00</li>
+<li>技术支持QQ群：123456789</li>
+</ul>
+<h3 id="_6-3-售后服务" tabindex="-1"><a class="header-anchor" href="#_6-3-售后服务"><span>6.3 售后服务</span></a></h3>
+<ul>
+<li>提供1年整机质保服务</li>
+<li>提供终身技术支持</li>
+<li>支持设备维修和升级</li>
+<li>提供配件更换服务</li>
+</ul>
+</div></template>
 
 

@@ -1,4 +1,4 @@
-import comp from "/home/pzx/vue-test/Embracecactus.github.io/src/.vuepress/.temp/pages/404.html.vue"
+import comp from "E:/_02_blog/myblog_2/src/.vuepress/.temp/pages/404.html.vue"
 const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"layout\":\"NotFound\"},\"readingTime\":{\"minutes\":0.01,\"words\":3},\"git\":{},\"filePathRelative\":null,\"headers\":[],\"bulletin\":true}")
 export { comp, data }
 

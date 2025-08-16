@@ -1,5 +1,5 @@
-import comp from "/home/pzx/vue-test/Embracecactus.github.io/src/.vuepress/.temp/pages/hardware/xAxonCore/index.html.vue"
-const data = JSON.parse("{\"path\":\"/hardware/xAxonCore/\",\"title\":\"核心产品\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"核心产品\",\"index\":false,\"icon\":\"laptop-code\"},\"readingTime\":{\"minutes\":0.36,\"words\":108},\"git\":{},\"filePathRelative\":\"hardware/xAxonCore/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"3ca14c\",\"sort\":10007,\"name\":\"hardware\"},{\"id\":\"7400fe\",\"sort\":10012,\"name\":\"xAxonCore\"}],\"bulletin\":true}")
+import comp from "E:/_02_blog/myblog_2/src/.vuepress/.temp/pages/hardware/xAxonCore/index.html.vue"
+const data = JSON.parse("{\"path\":\"/hardware/xAxonCore/\",\"title\":\"核心产品\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"核心产品\",\"index\":false,\"icon\":\"laptop-code\"},\"readingTime\":{\"minutes\":0.39,\"words\":116},\"git\":{},\"filePathRelative\":\"hardware/xAxonCore/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"3ca14c\",\"sort\":10013,\"name\":\"hardware\"},{\"id\":\"7400fe\",\"sort\":10014,\"name\":\"xAxonCore\"}],\"bulletin\":true}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

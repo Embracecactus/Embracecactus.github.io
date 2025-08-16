@@ -7,7 +7,7 @@ import {
   ref,
   shallowRef,
   watch
-} from "./chunk-HVR2FF6M.js";
+} from "./chunk-XQNPNIQJ.js";
 import "./chunk-PZ5AY32C.js";
 
 // node_modules/@iconify/vue/dist/iconify.mjs
